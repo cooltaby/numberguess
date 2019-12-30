@@ -1,0 +1,11 @@
+{
+	"c2dictionary":true,
+	"data":{
+	   "think_your_number":"Think your number between 1 and 64",
+	   "i_thought":"I thought",
+	   "does_your_number_exist":"Does your number exist below?",
+	   "yes":"Yes",
+	   "no":"No",
+	   "your_number_is":"Your number is"
+	}
+}

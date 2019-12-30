@@ -1,0 +1,11 @@
+{
+	"c2dictionary":true,
+	"data":{
+       "think_your_number":"1에서 64사이 숫자를 생각하세요",
+       "i_thought":"생각했습니다",
+       "does_your_number_exist":"아래에 당신의 숫자가 있나요?",
+       "yes":"예",
+       "no":"아니오",
+       "your_number_is":"당신의 숫자는 "
+	}
+}
